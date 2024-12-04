@@ -51,9 +51,3 @@ Carga horária: [6 horas]().
 
 Você pode visualizar o certificado clicando [aqui](https://drive.google.com/file/d/1F3b1pDBUCV3ABe-ROBaVuGw0YYdOhuhY/view?usp=sharing).
 
-## Referência
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
