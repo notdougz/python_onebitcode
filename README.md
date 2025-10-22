@@ -73,7 +73,6 @@ Este repositório contém todos os exercícios, projetos e materiais desenvolvid
 - **Ferramentas**: PIP, ambiente virtual, PyInstaller
 - **Editores**: VS Code, PyCharm
 
-
 ## 📊 Progresso do Curso
 
 - [x] **Fundamentos Python** - Concluído
@@ -83,10 +82,10 @@ Este repositório contém todos os exercícios, projetos e materiais desenvolvid
 
 ## 🏆 Certificações
 
-- [Fundamentos de Python - I](https://drive.google.com/file/d/1FK-FQMZ-gB5QMqmwebx-B8phcYQkz6oU/view?usp=sharing) - 12 horas
+- [Python I - Fundamentos de Python](https://drive.google.com/file/d/1FK-FQMZ-gB5QMqmwebx-B8phcYQkz6oU/view?usp=sharing) - 12 horas
 - [Python II - Módulos e PIP](https://drive.google.com/file/d/1F3b1pDBUCV3ABe-ROBaVuGw0YYdOhuhY/view?usp=sharing) - 6 horas
-- [Python III - POO] (https://drive.google.com/file/d/1jYwkD7CULkIqqCQj1eenlKEAwbANPpzx/view?usp=sharing) - 6 horas
-- [Python IV - Manipulando arquivos] (https://drive.google.com/file/d/1_ZmE_Jsy5cuksm-NsSFBNkW0W0GBF87H/view?usp=sharing) - 4 horas
+- [Python III - POO](https://drive.google.com/file/d/1jYwkD7CULkIqqCQj1eenlKEAwbANPpzx/view?usp=sharing) - 6 horas
+- [Python IV - Manipulando arquivos](https://drive.google.com/file/d/1_ZmE_Jsy5cuksm-NsSFBNkW0W0GBF87H/view?usp=sharing) - 4 horas
 
 ## 📝 Exercícios e Projetos
 
@@ -122,4 +121,3 @@ Este é um repositório de estudos pessoal, mas sugestões e melhorias são semp
 ---
 
 **⭐ Se este repositório foi útil para você, considere dar uma estrela!**
-
